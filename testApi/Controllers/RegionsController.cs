@@ -25,7 +25,6 @@ namespace NZWalksAPI.Controllers
 
             return Ok(regions);
         }
-
         // Get Single Region By ID
         [HttpGet]
         [Route("{Id:Guid}")]

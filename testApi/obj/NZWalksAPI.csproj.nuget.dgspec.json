@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Reacon 37\\Desktop\\.Net\\testApi\\testApi\\NZWalksAPI.csproj": {}
+    "C:\\Users\\Reacon 37\\Desktop\\.Net\\ASP.Net_Core_Web_API_Using_CRUD\\testApi\\NZWalksAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Reacon 37\\Desktop\\.Net\\testApi\\testApi\\NZWalksAPI.csproj": {
+    "C:\\Users\\Reacon 37\\Desktop\\.Net\\ASP.Net_Core_Web_API_Using_CRUD\\testApi\\NZWalksAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Reacon 37\\Desktop\\.Net\\testApi\\testApi\\NZWalksAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Reacon 37\\Desktop\\.Net\\ASP.Net_Core_Web_API_Using_CRUD\\testApi\\NZWalksAPI.csproj",
         "projectName": "NZWalksAPI",
-        "projectPath": "C:\\Users\\Reacon 37\\Desktop\\.Net\\testApi\\testApi\\NZWalksAPI.csproj",
+        "projectPath": "C:\\Users\\Reacon 37\\Desktop\\.Net\\ASP.Net_Core_Web_API_Using_CRUD\\testApi\\NZWalksAPI.csproj",
         "packagesPath": "C:\\Users\\Reacon 37\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Reacon 37\\Desktop\\.Net\\testApi\\testApi\\obj\\",
+        "outputPath": "C:\\Users\\Reacon 37\\Desktop\\.Net\\ASP.Net_Core_Web_API_Using_CRUD\\testApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Reacon 37\\AppData\\Roaming\\NuGet\\NuGet.Config",
